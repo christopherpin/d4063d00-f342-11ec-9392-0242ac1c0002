@@ -1,0 +1,202 @@
+[
+    {
+        "images": [
+            9,
+            10,
+            28,
+            37,
+            42,
+            46,
+            49,
+            50,
+            52,
+            57,
+            62,
+            70,
+            74,
+            75,
+            80,
+            81,
+            83,
+            84,
+            87,
+            88,
+            95,
+            104,
+            110,
+            111,
+            112,
+            113,
+            114,
+            121,
+            123,
+            124,
+            125,
+            126,
+            130
+        ],
+        "img": "MohammadEhsai_Scrape_Artnet_135.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 1"
+    },
+    {
+        "images": [
+            2,
+            5,
+            8,
+            12,
+            16,
+            17,
+            21,
+            27,
+            32,
+            41,
+            51,
+            58,
+            64,
+            71,
+            76,
+            85,
+            92,
+            99,
+            100,
+            116,
+            117,
+            120,
+            131,
+            133
+        ],
+        "img": "MohammadEhsai_Scrape_Artnet_138.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 2"
+    },
+    {
+        "images": [
+            0,
+            3,
+            6,
+            15,
+            40,
+            43,
+            47,
+            59,
+            68,
+            78,
+            122
+        ],
+        "img": "MohammadEhsai_Scrape_Artnet_127.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 3"
+    },
+    {
+        "images": [
+            4,
+            18,
+            48,
+            56,
+            67,
+            90,
+            93,
+            96,
+            97,
+            108,
+            129
+        ],
+        "img": "MohammadEhsai_Scrape_Artnet_134.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 4"
+    },
+    {
+        "images": [
+            1,
+            34,
+            38,
+            45,
+            60,
+            69,
+            77,
+            82,
+            107,
+            115
+        ],
+        "img": "MohammadEhsai_Scrape_Artnet_120.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 5"
+    },
+    {
+        "images": [
+            13,
+            35,
+            44,
+            91,
+            101,
+            103,
+            106,
+            118,
+            119,
+            132
+        ],
+        "img": "MohammadEhsai_Scrape_Artnet_137.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 6"
+    },
+    {
+        "images": [
+            14,
+            29,
+            30,
+            39,
+            53,
+            63,
+            94,
+            98,
+            109,
+            127
+        ],
+        "img": "MohammadEhsai_Scrape_Artnet_132.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 7"
+    },
+    {
+        "images": [
+            7,
+            25,
+            26,
+            31,
+            54,
+            55,
+            65,
+            86,
+            105
+        ],
+        "img": "MohammadEhsai_Scrape_Artnet_110.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 8"
+    },
+    {
+        "images": [
+            11,
+            61,
+            72,
+            79,
+            89,
+            102,
+            128
+        ],
+        "img": "MohammadEhsai_Scrape_Artnet_133.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 9"
+    },
+    {
+        "images": [
+            19,
+            24,
+            33,
+            36,
+            66
+        ],
+        "img": "MohammadEhsai_Scrape_Artnet_071.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 10"
+    }
+]
